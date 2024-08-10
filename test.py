@@ -1,4 +1,4 @@
-print(" Poll SCM hello world!!")
+print(" Poll SCM Test script!!")
 import csv
   
 def process_csv(file_path):
